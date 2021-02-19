@@ -53,6 +53,7 @@ body {
 
 .bird {
     background-image: url('flappy-bird.png');
+    transform: rotate(-30deg);
     position: absolute;
     width: 60px;
     height: 45px;
